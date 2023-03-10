@@ -99,7 +99,7 @@
 				<version>3.0.0-M9</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>${suiteName}</suiteXmlFile>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
